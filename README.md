@@ -1,6 +1,6 @@
 # Hacker News Search App for RTS Labs:
 
-Following the guidelines a made a simple app with a file structure similar to that of a larger application with a store utilizing multiple reducers and a larger state object.
+Following the guidelines I made a simple React app with a file structure similar to that of a larger application with a store utilizing multiple reducers and a larger state object.
 
 There are 2 pages as instructed. The first is a Search page with a search form that lists up to 20 titles that match your search query. The second page is a History page that lists your search query history and allows you to click on each search query to get the same 20 titles.
 
